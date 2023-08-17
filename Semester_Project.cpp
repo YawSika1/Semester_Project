@@ -28,7 +28,7 @@ int main(){
 	cout << "ENTER THE AGE OF THE EMPLOYEE  : " <<endl;
 	getline(cin,user.age);
 	
-	cout << "ENTER THE EMPLOYEEID  : " <<endl;
+	cout << "ENTER THE EMPLOYEE ID  : " <<endl;
 	getline(cin,user.employeeid);
 	
 	cout << "ENTER THE GENDER OF THE EMPLOYEE  : " <<endl;
